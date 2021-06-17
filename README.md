@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reelgitter
-- 👀 I’m interested in ... ethical hacking
-- 🌱 I’m currently learning ... ehtical hacking and python
+- 👀 I’m interested in ethical hacking.
+- 🌱 I’m currently learning cyber security basics and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
